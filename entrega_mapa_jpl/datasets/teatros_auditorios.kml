@@ -1,0 +1,2824 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<atom:author>
+		<atom:name>Xunta de Galicia</atom:name>
+	</atom:author>
+	<atom:link href="http://www.xunta.es" rel="related"/>
+	<name>Teatros e Auditorios</name>
+	<open>1</open>
+	<description>46 teatros e auditorios en Galicia</description>
+	<Style id="TemaXunta">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/schools.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>00B67F06</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>92E09E00</color>
+		</PolyStyle>
+		<LabelStyle>
+			<color>FFFFFFFF</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<bgColor>FFB67F06</bgColor>
+			<textColor>FFFFFFFF</textColor>
+			<text>$[DescricionCE]</text>
+		</BalloonStyle>
+	</Style>
+	<ScreenOverlay>
+		<name>Xunta de Galicia</name>
+		<visibility>1</visibility>
+		<Icon>
+			<href>http://www.xunta.es/tema-portal-xunta/images/logoXuntaPe.png</href>
+		</Icon>
+		<overlayXY x="0.1" y="1.1" xunits="fraction" yunits="fraction"/>
+		<screenXY x="0.01" y="1" xunits="fraction" yunits="fraction"/>
+		<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+		<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+	</ScreenOverlay>
+<Folder id="id_1259029046">
+	<name>Ourense</name>
+	<open>0</open>
+	<description>5 teatros e auditorios</description>
+	<Placemark id="id_69558fe5e27941578af210547628c38e">
+		<name>Centro Cultural Avenida</name>
+		<ExtendedData>
+			<Data name="Mail">
+				<value>alcaldia@arua.gal</value>
+			</Data>
+			<Data name="Web">
+				<value>http://arua.es</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Rúa Progreso, 90</value>
+			</Data>
+			<Data name="Aforamento">
+				<value>265</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Centro Cultural Avenida</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Rúa Progreso, 90<br/>
+32250 
+A Rúa<br/>
+Ourense
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 988 310 116</li>
+	<li><a href="http://arua.es" style="color:#FFFFFF;">Páxina web</a></li>
+	<li><a href="mailto:alcaldia@arua.gal" style="color:#FFFFFF;">Correo electrónico</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>265 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>32250</value>
+			</Data>
+			<Data name="Telefono">
+				<value>988 310 116</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Ourense</value>
+			</Data>
+			<Data name="Concello">
+				<value>A Rúa</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.11626,42.394285</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_8741f23b5fce44ecb5e88e752348832b">
+		<name>Teatro Municipal Lauro Olmo</name>
+		<ExtendedData>
+			<Data name="Mail">
+				<value>cultura@concellodobarco.org</value>
+			</Data>
+			<Data name="Web">
+				<value>https://www.concellodobarco.org</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Rúa da Estación, 2</value>
+			</Data>
+			<Data name="Aforamento">
+				<value>275</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Teatro Municipal Lauro Olmo</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Rúa da Estación, 2<br/>
+32200 
+O Barco de Valdeorras<br/>
+Ourense
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 988 320 053</li>
+	<li><a href="https://www.concellodobarco.org" style="color:#FFFFFF;">Páxina web</a></li>
+	<li><a href="mailto:cultura@concellodobarco.org" style="color:#FFFFFF;">Correo electrónico</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>275 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>32200</value>
+			</Data>
+			<Data name="Telefono">
+				<value>988 320 053</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Ourense</value>
+			</Data>
+			<Data name="Concello">
+				<value>O Barco de Valdeorras</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-6.985677,42.415461</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_fea995626c4c4f2f9edf5a43e108c3ab">
+		<name>Auditorio Municipal Manuel María</name>
+		<ExtendedData>
+			<Data name="Mail">
+				<value>oixcultura@carballino.org</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.carballino.gal</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Praza Maior, 1</value>
+			</Data>
+			<Data name="Aforamento">
+				<value>426</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Auditorio Municipal Manuel María</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Praza Maior, 1<br/>
+32500 
+O Carballiño<br/>
+Ourense
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 988 530 007</li>
+	<li><a href="http://www.carballino.gal" style="color:#FFFFFF;">Páxina web</a></li>
+	<li><a href="mailto:oixcultura@carballino.org" style="color:#FFFFFF;">Correo electrónico</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>426 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>32500</value>
+			</Data>
+			<Data name="Telefono">
+				<value>988 530 007</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Ourense</value>
+			</Data>
+			<Data name="Concello">
+				<value>O Carballiño</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.080328,42.433443</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_ba119708d2af402eaef53639f2c9646a">
+		<name>Auditorio Pazo de Congresos</name>
+		<ExtendedData>
+			<Data name="Mail">
+				<value>auditorio@ourense.es</value>
+			</Data>
+			<Data name="Web">
+				<value>http://ourensecultura.gal</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Rúa da Canle, 2</value>
+			</Data>
+			<Data name="Aforamento">
+				<value>925</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Auditorio Pazo de Congresos</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Rúa da Canle, 2<br/>
+32005 
+Ourense<br/>
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 988 391 290</li>
+	<li><a href="http://ourensecultura.gal" style="color:#FFFFFF;">Páxina web</a></li>
+	<li><a href="mailto:auditorio@ourense.es" style="color:#FFFFFF;">Correo electrónico</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>925 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>32005</value>
+			</Data>
+			<Data name="Telefono">
+				<value>988 391 290</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Ourense</value>
+			</Data>
+			<Data name="Concello">
+				<value>Ourense</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.860445,42.337932</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_95277a0171994982822b1250fd112c6d">
+		<name>Teatro Principal de Ourense</name>
+		<ExtendedData>
+			<Data name="Mail">
+				<value>oficina.teatro@depourense.es</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.teatroprincipalourense.com</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Rúa da Paz, 9</value>
+			</Data>
+			<Data name="Aforamento">
+				<value>394</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Teatro Principal de Ourense</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Rúa da Paz, 9<br/>
+32005 
+Ourense<br/>
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 988 317 960</li>
+	<li><a href="http://www.teatroprincipalourense.com" style="color:#FFFFFF;">Páxina web</a></li>
+	<li><a href="mailto:oficina.teatro@depourense.es" style="color:#FFFFFF;">Correo electrónico</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>394 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>32005</value>
+			</Data>
+			<Data name="Telefono">
+				<value>988 317 960</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Ourense</value>
+			</Data>
+			<Data name="Concello">
+				<value>Ourense</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.863722,42.337165</coordinates>
+		</Point>
+	</Placemark>
+
+</Folder>
+<Folder id="id_1578743593">
+	<name>Pontevedra</name>
+	<open>0</open>
+	<description>13 teatros e auditorios</description>
+	<Placemark id="id_6375ece49c9a44e7afe1563bab5df779">
+		<name>Teatro Principal da Estrada</name>
+		<ExtendedData>
+			<Data name="Mail">
+				<value>aestradacultura@gmail.com</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.aestrada.gal</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Rúa Serafín Pazo s/n</value>
+			</Data>
+			<Data name="Aforamento">
+				<value>388</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Teatro Principal da Estrada</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Rúa Serafín Pazo s/n<br/>
+36680 
+A Estrada<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 986 573 601</li>
+	<li><a href="http://www.aestrada.gal" style="color:#FFFFFF;">Páxina web</a></li>
+	<li><a href="mailto:aestradacultura@gmail.com" style="color:#FFFFFF;">Correo electrónico</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>388 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>36680</value>
+			</Data>
+			<Data name="Telefono">
+				<value>986 573 601</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>A Estrada</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.489359,42.68807</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_6211653ee0b04edb908d44b1fdeea684">
+		<name>Auditorio Municipal da Xuventude</name>
+		<ExtendedData>
+			<Data name="Aforamento">
+				<value>250</value>
+			</Data>
+			<Data name="Web">
+				<value>https://cambados.es</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Rúa San Francisco, 3</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Auditorio Municipal da Xuventude</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Rúa San Francisco, 3<br/>
+36360 
+Cambados<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 986 520 008</li>
+	<li><a href="https://cambados.es" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>250 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>36360</value>
+			</Data>
+			<Data name="Telefono">
+				<value>986 520 008</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Cambados</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.813122,42.514954</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_563eca63f2294711a03a65de1bd19608">
+		<name>Auditorio Lois Tobío</name>
+		<ExtendedData>
+			<Data name="Mail">
+				<value>cultura@concellodegondomar.com</value>
+			</Data>
+			<Data name="Web">
+				<value>https://concellodegondomar.gal</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Rúa Manuel Alonso, 6</value>
+			</Data>
+			<Data name="Aforamento">
+				<value>250</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Auditorio Lois Tobío</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Rúa Manuel Alonso, 6<br/>
+36380 
+Gondomar<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 986 363 913</li>
+	<li><a href="https://concellodegondomar.gal" style="color:#FFFFFF;">Páxina web</a></li>
+	<li><a href="mailto:cultura@concellodegondomar.com" style="color:#FFFFFF;">Correo electrónico</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>250 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>36380</value>
+			</Data>
+			<Data name="Telefono">
+				<value>986 363 913</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Gondomar</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.761903,42.111112</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_f9ff2807d5b941ad9c824a1eaa48a6b6">
+		<name>Salón Teatro de Lalín</name>
+		<ExtendedData>
+			<Data name="Mail">
+				<value>cultura@lalin.gal</value>
+			</Data>
+			<Data name="Web">
+				<value>https://lalin.gal</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Praza do Mercado</value>
+			</Data>
+			<Data name="Aforamento">
+				<value>320</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Salón Teatro de Lalín</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Praza do Mercado<br/>
+36500 
+Lalín<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 986 784 004</li>
+	<li><a href="https://lalin.gal" style="color:#FFFFFF;">Páxina web</a></li>
+	<li><a href="mailto:cultura@lalin.gal" style="color:#FFFFFF;">Correo electrónico</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>320 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>36500</value>
+			</Data>
+			<Data name="Telefono">
+				<value>986 784 004</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Lalín</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.104617,42.664782</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_749484d4f5e24bfb87630d69b23ef826">
+		<name>Pazo da Cultura de Pontevedra</name>
+		<ExtendedData>
+			<Data name="Mail">
+				<value>coordinacion@pazodacultura.org</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.pazodacultura.org</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Alexandre Bóveda s/n</value>
+			</Data>
+			<Data name="Aforamento">
+				<value>752</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Pazo da Cultura de Pontevedra</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Alexandre Bóveda s/n<br/>
+36005 
+Pontevedra<br/>
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 986 833 061</li>
+	<li><a href="http://www.pazodacultura.org" style="color:#FFFFFF;">Páxina web</a></li>
+	<li><a href="mailto:coordinacion@pazodacultura.org" style="color:#FFFFFF;">Correo electrónico</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>752 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>36005</value>
+			</Data>
+			<Data name="Telefono">
+				<value>986 833 061</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Pontevedra</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.637744,42.435497</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_38f48e96dd98414c80cb11fba5f1ea14">
+		<name>Teatro Principal de Pontevedra</name>
+		<ExtendedData>
+			<Data name="Mail">
+				<value>coordinacion@pazodacultura.org</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.pazodacultura.org</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Rúa de Paio Gómez Chariño, 6</value>
+			</Data>
+			<Data name="Aforamento">
+				<value>434</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Teatro Principal de Pontevedra</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Rúa de Paio Gómez Chariño, 6<br/>
+36002 
+Pontevedra<br/>
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 986 833 061</li>
+	<li><a href="http://www.pazodacultura.org" style="color:#FFFFFF;">Páxina web</a></li>
+	<li><a href="mailto:coordinacion@pazodacultura.org" style="color:#FFFFFF;">Correo electrónico</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>434 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>36002</value>
+			</Data>
+			<Data name="Telefono">
+				<value>986 833 061</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Pontevedra</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.646487,42.432473</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_f790e2c42c2d40b0b033cba0c50285d4">
+		<name>Multiusos da Xunqueira</name>
+		<ExtendedData>
+			<Data name="Mail">
+				<value>cultura@redondela.gal</value>
+			</Data>
+			<Data name="Web">
+				<value>http://redondela.gal</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Paseo da Xunqueira, s/n</value>
+			</Data>
+			<Data name="Aforamento">
+				<value>278</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Multiusos da Xunqueira</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Paseo da Xunqueira, s/n<br/>
+36800 
+Redondela<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 986 400 300</li>
+	<li><a href="http://redondela.gal" style="color:#FFFFFF;">Páxina web</a></li>
+	<li><a href="mailto:cultura@redondela.gal" style="color:#FFFFFF;">Correo electrónico</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>278 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>36800</value>
+			</Data>
+			<Data name="Telefono">
+				<value>986 400 300</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Redondela</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.610001,42.282849</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_775db2a510bc422a88bc56e232a6ec42">
+		<name>Teatro Municipal de Tui</name>
+		<ExtendedData>
+			<Data name="Aforamento">
+				<value>554</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.culturatui.info</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Rúa Colón, 2</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Teatro Municipal de Tui</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Rúa Colón, 2<br/>
+36700 
+Tui<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 986 603 625</li>
+	<li><a href="http://www.culturatui.info" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>554 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>36700</value>
+			</Data>
+			<Data name="Telefono">
+				<value>986 603 625</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Tui</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.647068,42.049516</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_4d61a2e5c0884eb39c7be21ab51819c1">
+		<name>Auditorio Municipal de Vigo</name>
+		<ExtendedData>
+			<Data name="Aforamento">
+				<value>283</value>
+			</Data>
+			<Data name="Web">
+				<value>https://hoxe.vigo.org</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Praza do Rei, 1</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Auditorio Municipal de Vigo</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Praza do Rei, 1<br/>
+36202 
+Vigo<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 986 810 239</li>
+	<li><a href="https://hoxe.vigo.org" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>283 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>36202</value>
+			</Data>
+			<Data name="Telefono">
+				<value>986 810 239</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Vigo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.726891,42.235929</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_7bb5db52cfce40d1ba008a3e45df2b6a">
+		<name>Auditorio Municipal</name>
+		<ExtendedData>
+			<Data name="Mail">
+				<value>cultura@vilagarcia.es</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.vilagarcia.es</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Avda. A Mariña, 27</value>
+			</Data>
+			<Data name="Aforamento">
+				<value>754</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Auditorio Municipal</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Avda. A Mariña, 27<br/>
+36600 
+Vilagarcía de Arousa<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 986 512 600</li>
+	<li><a href="http://www.vilagarcia.es" style="color:#FFFFFF;">Páxina web</a></li>
+	<li><a href="mailto:cultura@vilagarcia.es" style="color:#FFFFFF;">Correo electrónico</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>754 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>36600</value>
+			</Data>
+			<Data name="Telefono">
+				<value>986 512 600</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Vilagarcía de Arousa</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.766914,42.598173</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_aefd68eaa3384a18b9b011154c661947">
+		<name>Auditorio Municipal</name>
+		<ExtendedData>
+			<Data name="Mail">
+				<value>auditorio@cangas.gal</value>
+			</Data>
+			<Data name="Web">
+				<value>https://cangas.gal</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Avenida de Lugo, 27</value>
+			</Data>
+			<Data name="Aforamento">
+				<value>690</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Auditorio Municipal</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Avenida de Lugo, 27<br/>
+36940 
+Cangas<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 986 304 108</li>
+	<li><a href="https://cangas.gal" style="color:#FFFFFF;">Páxina web</a></li>
+	<li><a href="mailto:auditorio@cangas.gal" style="color:#FFFFFF;">Correo electrónico</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>690 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>36940</value>
+			</Data>
+			<Data name="Telefono">
+				<value>986 304 108</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Cangas</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.7855354,42.2677042</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_79c777edb9a14777aaf43f3bb26897be">
+		<name>Auditorio Reveriano Soutullo</name>
+		<ExtendedData>
+			<Data name="Mail">
+				<value>departamentocultura@ponteareas.es</value>
+			</Data>
+			<Data name="Web">
+				<value>https://ponteareas.gal</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Rúa Doutor Fernández de la Vega s/n</value>
+			</Data>
+			<Data name="Aforamento">
+				<value>400</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Auditorio Reveriano Soutullo</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Rúa Doutor Fernández de la Vega s/n<br/>
+36860 
+Ponteareas<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 986 661 674</li>
+	<li><a href="https://ponteareas.gal" style="color:#FFFFFF;">Páxina web</a></li>
+	<li><a href="mailto:departamentocultura@ponteareas.es" style="color:#FFFFFF;">Correo electrónico</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>400 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>36860</value>
+			</Data>
+			<Data name="Telefono">
+				<value>986 661 674</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Ponteareas</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.5069826,42.1742991</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_fdb2c180cd8349db98504e16884e901a">
+		<name>Auditorio Municipal de Goián</name>
+		<ExtendedData>
+			<Data name="Aforamento">
+				<value>322</value>
+			</Data>
+			<Data name="Web">
+				<value>https://tomino.gal</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Avda. Pío Troncoso</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Auditorio Municipal de Goián</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Avda. Pío Troncoso<br/>
+36740 
+Tomiño<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 986 622 001</li>
+	<li><a href="https://tomino.gal" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>322 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>36740</value>
+			</Data>
+			<Data name="Telefono">
+				<value>986 622 001</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Tomiño</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.771502,41.948506</coordinates>
+		</Point>
+	</Placemark>
+
+</Folder>
+<Folder id="id_154765669">
+	<name>A Coruña</name>
+	<open>0</open>
+	<description>22 teatros e auditorios</description>
+	<Placemark id="id_6ca0c93957014fe69db8fa59bf686e25">
+		<name>Forum Metropolitano</name>
+		<ExtendedData>
+			<Data name="Mail">
+				<value>forum@coruna.es</value>
+			</Data>
+			<Data name="Web">
+				<value>https://www.coruna.gal/cultura</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Río Monelos, 1</value>
+			</Data>
+			<Data name="Aforamento">
+				<value>300</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Forum Metropolitano</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Río Monelos, 1<br/>
+15006 
+A Coruña<br/>
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 184 293</li>
+	<li><a href="https://www.coruna.gal/cultura" style="color:#FFFFFF;">Páxina web</a></li>
+	<li><a href="mailto:forum@coruna.es" style="color:#FFFFFF;">Correo electrónico</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>300 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>15006</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 184 293</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>A Coruña</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.398987,43.355734</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_e1e94a4e1cb3405ebb82ee89b57f2c2d">
+		<name>Teatro Rosalía Castro</name>
+		<ExtendedData>
+			<Data name="Mail">
+				<value>trc@coruna.es</value>
+			</Data>
+			<Data name="Web">
+				<value>https://www.coruna.gal/cultura</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Riego del Agua, 37</value>
+			</Data>
+			<Data name="Aforamento">
+				<value>662</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Teatro Rosalía Castro</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Riego del Agua, 37<br/>
+15003 
+A Coruña<br/>
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 134 450</li>
+	<li><a href="https://www.coruna.gal/cultura" style="color:#FFFFFF;">Páxina web</a></li>
+	<li><a href="mailto:trc@coruna.es" style="color:#FFFFFF;">Correo electrónico</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>662 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>15003</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 134 450</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>A Coruña</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.398303,43.370504</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_402bc08576bb4a7eaea9a3e2449ae690">
+		<name>Auditorio Casa da Cultura do Milladoiro</name>
+		<ExtendedData>
+			<Data name="Mail">
+				<value>cultura@concellodeames.gal</value>
+			</Data>
+			<Data name="Web">
+				<value>https://www.concellodeames.gal</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Travesia do Porto, s/n. O Milladoiro</value>
+			</Data>
+			<Data name="Aforamento">
+				<value>146</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Auditorio Casa da Cultura do Milladoiro</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Travesia do Porto, s/n. O Milladoiro<br/>
+15895 
+Ames<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 535 940</li>
+	<li><a href="https://www.concellodeames.gal" style="color:#FFFFFF;">Páxina web</a></li>
+	<li><a href="mailto:cultura@concellodeames.gal" style="color:#FFFFFF;">Correo electrónico</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>146 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>15895</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 535 940</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Ames</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.580865,42.844782</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_b04e73636a024016b3291be51ccf4b19">
+		<name>Casa da Cultura de Bertamiráns</name>
+		<ExtendedData>
+			<Data name="Mail">
+				<value>cultura@concellodeames.gal</value>
+			</Data>
+			<Data name="Web">
+				<value>https://www.concellodeames.gal</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Praza de Chavián, s/n. Bertamiráns</value>
+			</Data>
+			<Data name="Aforamento">
+				<value>220</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Casa da Cultura de Bertamiráns</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Praza de Chavián, s/n. Bertamiráns<br/>
+15220 
+Ames<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 884 991</li>
+	<li><a href="https://www.concellodeames.gal" style="color:#FFFFFF;">Páxina web</a></li>
+	<li><a href="mailto:cultura@concellodeames.gal" style="color:#FFFFFF;">Correo electrónico</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>220 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>15220</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 884 991</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Ames</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.657174,42.85927</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_ba039350373a478a8f756a833c06f0d4">
+		<name>Auditorio do Centro Cívico Cultural de Arteixo</name>
+		<ExtendedData>
+			<Data name="Mail">
+				<value>cultura@arteixo.org</value>
+			</Data>
+			<Data name="Web">
+				<value>https://www.arteixo.org</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Paseo fluvial, s/n</value>
+			</Data>
+			<Data name="Aforamento">
+				<value>300</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Auditorio do Centro Cívico Cultural de Arteixo</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Paseo fluvial, s/n<br/>
+15142 
+Arteixo<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 641 803</li>
+	<li><a href="https://www.arteixo.org" style="color:#FFFFFF;">Páxina web</a></li>
+	<li><a href="mailto:cultura@arteixo.org" style="color:#FFFFFF;">Correo electrónico</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>300 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>15142</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 641 803</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Arteixo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.506296,43.302656</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_e572e8f1e71f429db430c135397213a1">
+		<name>Auditorio Municipal Cine Alovi</name>
+		<ExtendedData>
+			<Data name="Mail">
+				<value>cultura@aspontes.org</value>
+			</Data>
+			<Data name="Web">
+				<value>https://aspontes.org</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Avda. de Galicia, s/n</value>
+			</Data>
+			<Data name="Aforamento">
+				<value>402</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Auditorio Municipal Cine Alovi</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Avda. de Galicia, s/n<br/>
+15320 
+As Pontes de García Rodríguez<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 440 344</li>
+	<li><a href="https://aspontes.org" style="color:#FFFFFF;">Páxina web</a></li>
+	<li><a href="mailto:cultura@aspontes.org" style="color:#FFFFFF;">Correo electrónico</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>402 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>15320</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 440 344</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>As Pontes de García Rodríguez</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.853691,43.447348</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_2ea1b56e34ea4535b3dff58b99cea9f0">
+		<name>Aula Municipal de Cultura de Betanzos</name>
+		<ExtendedData>
+			<Data name="Aforamento">
+				<value>220</value>
+			</Data>
+			<Data name="Web">
+				<value>https://betanzos.es</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Edificio Liceo, Praza de Galicia 1</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Aula Municipal de Cultura de Betanzos</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Edificio Liceo, Praza de Galicia 1<br/>
+15300 
+Betanzos<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 770 100</li>
+	<li><a href="https://betanzos.es" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>220 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>15300</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 770 100</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Betanzos</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.210792,43.279002</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_370d7e793ca844678d0f0320bf89d2b6">
+		<name>Casa da Cultura Ramón Martínez López</name>
+		<ExtendedData>
+			<Data name="Mail">
+				<value>cultura@boiro.org</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.boiro.gal</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Avenida da Constitución, 30</value>
+			</Data>
+			<Data name="Aforamento">
+				<value>289</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Casa da Cultura Ramón Martínez López</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Avenida da Constitución, 30<br/>
+15930 
+Boiro<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 848 425</li>
+	<li><a href="http://www.boiro.gal" style="color:#FFFFFF;">Páxina web</a></li>
+	<li><a href="mailto:cultura@boiro.org" style="color:#FFFFFF;">Correo electrónico</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>289 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>15930</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 848 425</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Boiro</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.884335,42.645308</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_f1cf972be1e2402ebf161718246d89ac">
+		<name>Pazo da Cultura de Carballo</name>
+		<ExtendedData>
+			<Data name="Mail">
+				<value>infocarballo@carballo.org</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.carballo.org</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Rúa do Pan, s/n</value>
+			</Data>
+			<Data name="Aforamento">
+				<value>350</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Pazo da Cultura de Carballo</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Rúa do Pan, s/n<br/>
+15100 
+Carballo<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 704 300</li>
+	<li><a href="http://www.carballo.org" style="color:#FFFFFF;">Páxina web</a></li>
+	<li><a href="mailto:infocarballo@carballo.org" style="color:#FFFFFF;">Correo electrónico</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>350 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>15100</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 704 300</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Carballo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.695261,43.211588</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_ea22246b9ebe454e9d6dea1c1ea26b9a">
+		<name>Auditorio Municipal de Cedeira</name>
+		<ExtendedData>
+			<Data name="Aforamento">
+				<value>240</value>
+			</Data>
+			<Data name="Web">
+				<value>http://cedeira.gal</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Rúa Convento, s/n (esquina rúa Mediadora)</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Auditorio Municipal de Cedeira</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Rúa Convento, s/n (esquina rúa Mediadora)<br/>
+15350 
+Cedeira<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 649 876 614</li>
+	<li><a href="http://cedeira.gal" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>240 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>15350</value>
+			</Data>
+			<Data name="Telefono">
+				<value>649 876 614</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Cedeira</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.051973,43.661636</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_bcb1729d9b2b4b4791bb57767190a0af">
+		<name>Auditorio da Casa da Cultura</name>
+		<ExtendedData>
+			<Data name="Aforamento">
+				<value>175</value>
+			</Data>
+			<Data name="Web">
+				<value>https://cee.gal</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Rúa Domingo Antonio de Andrade, s/n</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Auditorio da Casa da Cultura</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Rúa Domingo Antonio de Andrade, s/n<br/>
+15270 
+Cee<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 745 100</li>
+	<li><a href="https://cee.gal" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>175 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>15270</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 745 100</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Cee</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-9.190134,42.955649</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_c5809f54bf4f4ddb8b1d5a220df6a794">
+		<name>Teatro Jofre</name>
+		<ExtendedData>
+			<Data name="Mail">
+				<value>produccion.jofre@ferrol.es</value>
+			</Data>
+			<Data name="Web">
+				<value>https://www.ferrol.gal</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Praza de Galicia, s/n</value>
+			</Data>
+			<Data name="Aforamento">
+				<value>556</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Teatro Jofre</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Praza de Galicia, s/n<br/>
+15402 
+Ferrol<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 944 244</li>
+	<li><a href="https://www.ferrol.gal" style="color:#FFFFFF;">Páxina web</a></li>
+	<li><a href="mailto:produccion.jofre@ferrol.es" style="color:#FFFFFF;">Correo electrónico</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>556 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>15402</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 944 244</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Ferrol</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.23376,43.482547</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_c1b14342efb148d1a84f7be747ea7184">
+		<name>Centro Cultural e Xuvenil de Muros</name>
+		<ExtendedData>
+			<Data name="Mail">
+				<value>cultura@muros.es</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.muros.gal</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Estrada de Miraflores, s/n</value>
+			</Data>
+			<Data name="Aforamento">
+				<value>160</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Centro Cultural e Xuvenil de Muros</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Estrada de Miraflores, s/n<br/>
+15250 
+Muros<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 762 294</li>
+	<li><a href="http://www.muros.gal" style="color:#FFFFFF;">Páxina web</a></li>
+	<li><a href="mailto:cultura@muros.es" style="color:#FFFFFF;">Correo electrónico</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>160 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>15250</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 762 294</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Muros</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-9.05899,42.773901</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_b29b6dd8926f4b9387da5ff21a9097ff">
+		<name>Pazo da Cultura de Narón</name>
+		<ExtendedData>
+			<Data name="Mail">
+				<value>p.cultura@naron.es</value>
+			</Data>
+			<Data name="Web">
+				<value>https://www.padroadodecultura.es</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Rúa Holanda, s/n</value>
+			</Data>
+			<Data name="Aforamento">
+				<value>900</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Pazo da Cultura de Narón</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Rúa Holanda, s/n<br/>
+15570 
+Narón<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 391 144</li>
+	<li><a href="https://www.padroadodecultura.es" style="color:#FFFFFF;">Páxina web</a></li>
+	<li><a href="mailto:p.cultura@naron.es" style="color:#FFFFFF;">Correo electrónico</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>900 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>15570</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 391 144</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Narón</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.195536,43.496674</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_d3d0241d4c39463dba2d569eb3e35eac">
+		<name>Auditorio Municipal de Narón</name>
+		<ExtendedData>
+			<Data name="Mail">
+				<value>p.cultura@naron.es</value>
+			</Data>
+			<Data name="Web">
+				<value>https://www.padroadodecultura.es</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Praza de Galicia, s/n</value>
+			</Data>
+			<Data name="Aforamento">
+				<value>384</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Auditorio Municipal de Narón</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Praza de Galicia, s/n<br/>
+15570 
+Narón<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 391 144</li>
+	<li><a href="https://www.padroadodecultura.es" style="color:#FFFFFF;">Páxina web</a></li>
+	<li><a href="mailto:p.cultura@naron.es" style="color:#FFFFFF;">Correo electrónico</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>384 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>15570</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 391 144</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Narón</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.192541,43.50006</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_0d468e40e6db475b8697d065a58f7945">
+		<name>Auditorio Gabriel Garcia Márquez</name>
+		<ExtendedData>
+			<Data name="Mail">
+				<value>cultura@oleiros.org</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.oleiros.org</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>R/ Camilo Díaz, s/n - Edif. Obelisco</value>
+			</Data>
+			<Data name="Aforamento">
+				<value>400</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Auditorio Gabriel Garcia Márquez</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+R/ Camilo Díaz, s/n - Edif. Obelisco<br/>
+15173 
+Oleiros<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 610 000</li>
+	<li><a href="http://www.oleiros.org" style="color:#FFFFFF;">Páxina web</a></li>
+	<li><a href="mailto:cultura@oleiros.org" style="color:#FFFFFF;">Correo electrónico</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>400 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>15173</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 610 000</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Oleiros</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.336248,43.38295</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_744b412fc0044339bc7d41998afa6421">
+		<name>Teatro da Beneficencia</name>
+		<ExtendedData>
+			<Data name="Aforamento">
+				<value>250</value>
+			</Data>
+			<Data name="Web">
+				<value>http://concellodeortigueira.gal</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Praza Isabel II, s/n</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Teatro da Beneficencia</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Praza Isabel II, s/n<br/>
+15330 
+Ortigueira<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 639 043 936</li>
+	<li><a href="http://concellodeortigueira.gal" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>250 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>15330</value>
+			</Data>
+			<Data name="Telefono">
+				<value>639 043 936</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Ortigueira</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.854775,43.684543</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_4ce7b05d0a66432ea213a45790fee91d">
+		<name>Casa da Cultura Pintor Lloréns</name>
+		<ExtendedData>
+			<Data name="Mail">
+				<value>casacultura@concellodesada.com</value>
+			</Data>
+			<Data name="Web">
+				<value>https://www.sada.gal</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Paseo do Porto s/n</value>
+			</Data>
+			<Data name="Aforamento">
+				<value>300</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Casa da Cultura Pintor Lloréns</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Paseo do Porto s/n<br/>
+15610 
+Sada<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 619 115</li>
+	<li><a href="https://www.sada.gal" style="color:#FFFFFF;">Páxina web</a></li>
+	<li><a href="mailto:casacultura@concellodesada.com" style="color:#FFFFFF;">Correo electrónico</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>300 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>15610</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 619 115</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Sada</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.252021,43.355718</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_a733219943af4e22b5c123f36f1f18c3">
+		<name>Teatro Principal de Santiago de Compostela</name>
+		<ExtendedData>
+			<Data name="Mail">
+				<value>direccion@audiotoriodegalicia.org</value>
+			</Data>
+			<Data name="Web">
+				<value>https://www.compostelacultura.gal</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Rúa Nova, 21</value>
+			</Data>
+			<Data name="Aforamento">
+				<value>399</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Teatro Principal de Santiago de Compostela</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Rúa Nova, 21<br/>
+15705 
+Santiago de Compostela<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 542 347</li>
+	<li><a href="https://www.compostelacultura.gal" style="color:#FFFFFF;">Páxina web</a></li>
+	<li><a href="mailto:direccion@audiotoriodegalicia.org" style="color:#FFFFFF;">Correo electrónico</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>399 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>15705</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 542 347</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Santiago de Compostela</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.54352,42.878804</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_b2739cdcd0e1418a91aa63f332188189">
+		<name>Salón Teatro</name>
+		<ExtendedData>
+			<Data name="Mail">
+				<value>centro.dramatico.galego@xunta.gal</value>
+			</Data>
+			<Data name="Web">
+				<value>http://centrodramatico.xunta.gal</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Rúa Nova,34</value>
+			</Data>
+			<Data name="Aforamento">
+				<value>273</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Salón Teatro</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Rúa Nova,34<br/>
+15705 
+Santiago de Compostela<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 881 867 223</li>
+	<li><a href="http://centrodramatico.xunta.gal" style="color:#FFFFFF;">Páxina web</a></li>
+	<li><a href="mailto:centro.dramatico.galego@xunta.gal" style="color:#FFFFFF;">Correo electrónico</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>273 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>15705</value>
+			</Data>
+			<Data name="Telefono">
+				<value>881 867 223</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Santiago de Compostela</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.543818,42.878413</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_6c3e9ce3c9b14218b1a1a4f96052e4db">
+		<name>Auditorio Casa da Cultura</name>
+		<ExtendedData>
+			<Data name="Aforamento">
+				<value>420</value>
+			</Data>
+			<Data name="Web">
+				<value>https://www.vimianzo.gal</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>A Braña, s/n</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Auditorio Casa da Cultura</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+A Braña, s/n<br/>
+15129 
+Vimianzo<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 716 001</li>
+	<li><a href="https://www.vimianzo.gal" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>420 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>15129</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 716 001</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Vimianzo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-9.034188,43.111859</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_4483230d90b845baa217dba1733b282f">
+		<name>Teatro Coliseo Noela</name>
+		<ExtendedData>
+			<Data name="Aforamento">
+				<value>342</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.noia.es</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Rúa Curro, 4</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Teatro Coliseo Noela</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Rúa Curro, 4<br/>
+15200 
+Noia<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 828 104</li>
+	<li><a href="http://www.noia.es" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>342 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>15200</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 828 104</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Noia</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.8893874,42.7827855</coordinates>
+		</Point>
+	</Placemark>
+
+</Folder>
+<Folder id="id_-1565414741">
+	<name>Lugo</name>
+	<open>0</open>
+	<description>6 teatros e auditorios</description>
+	<Placemark id="id_5f92f23ff7864ecf87136f04b2f6edfc">
+		<name>Casa da Cultura</name>
+		<ExtendedData>
+			<Data name="Mail">
+				<value>casadacultura@burela.org</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.burela.org</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Rúa Pardo Bazán, 6</value>
+			</Data>
+			<Data name="Aforamento">
+				<value>824</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Casa da Cultura</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Rúa Pardo Bazán, 6<br/>
+27880 
+Burela<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 982 580 683</li>
+	<li><a href="http://www.burela.org" style="color:#FFFFFF;">Páxina web</a></li>
+	<li><a href="mailto:casadacultura@burela.org" style="color:#FFFFFF;">Correo electrónico</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>824 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>27880</value>
+			</Data>
+			<Data name="Telefono">
+				<value>982 580 683</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Burela</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.358176,43.660603</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_86857a5c112f450da929a03df65abe24">
+		<name>Sala Bahía</name>
+		<ExtendedData>
+			<Data name="Mail">
+				<value>cultura@concellodefoz.es</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.concellodefoz.es</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Rúa Cervantes, 40</value>
+			</Data>
+			<Data name="Aforamento">
+				<value>250</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Sala Bahía</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Rúa Cervantes, 40<br/>
+27780 
+Foz<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 982 140 027</li>
+	<li><a href="http://www.concellodefoz.es" style="color:#FFFFFF;">Páxina web</a></li>
+	<li><a href="mailto:cultura@concellodefoz.es" style="color:#FFFFFF;">Correo electrónico</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>250 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>27780</value>
+			</Data>
+			<Data name="Telefono">
+				<value>982 140 027</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Foz</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.259475,43.571518</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_cb4794c49f144685bf95a568c6da1046">
+		<name>Auditorio Municipal Gustavo Freire</name>
+		<ExtendedData>
+			<Data name="Mail">
+				<value>cultura@concellodelugo.org</value>
+			</Data>
+			<Data name="Web">
+				<value>http://concellodelugo.gal</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Parque da Milagrosa, s/n</value>
+			</Data>
+			<Data name="Aforamento">
+				<value>850</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Auditorio Municipal Gustavo Freire</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Parque da Milagrosa, s/n<br/>
+27001 
+Lugo<br/>
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 982 297 217</li>
+	<li><a href="http://concellodelugo.gal" style="color:#FFFFFF;">Páxina web</a></li>
+	<li><a href="mailto:cultura@concellodelugo.org" style="color:#FFFFFF;">Correo electrónico</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>850 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>27001</value>
+			</Data>
+			<Data name="Telefono">
+				<value>982 297 217</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Lugo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.561879,43.022886</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_ce2e5b42835b479fbd9036f37015c326">
+		<name>Edificio Multiusos</name>
+		<ExtendedData>
+			<Data name="Mail">
+				<value>cultura@concellodemonforte.com</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.monfortedelemos.es</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Avda. Emilia Casas Baamonde s/n</value>
+			</Data>
+			<Data name="Aforamento">
+				<value>478</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Edificio Multiusos</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Avda. Emilia Casas Baamonde s/n<br/>
+27400 
+Monforte de Lemos<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 982 402 501</li>
+	<li><a href="http://www.monfortedelemos.es" style="color:#FFFFFF;">Páxina web</a></li>
+	<li><a href="mailto:cultura@concellodemonforte.com" style="color:#FFFFFF;">Correo electrónico</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>478 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>27400</value>
+			</Data>
+			<Data name="Telefono">
+				<value>982 402 501</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Monforte de Lemos</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.511839,42.528061</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_26077369534e427b9be367cad26f2d1e">
+		<name>Auditorio Municipal Hernán Naval</name>
+		<ExtendedData>
+			<Data name="Mail">
+				<value>cultura@ribadeo.org</value>
+			</Data>
+			<Data name="Web">
+				<value>http://ribadeo.gal</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Rúa Buenos Aires, 14</value>
+			</Data>
+			<Data name="Aforamento">
+				<value>330</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Auditorio Municipal Hernán Naval</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Rúa Buenos Aires, 14<br/>
+27700 
+Ribadeo<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 982 131 565</li>
+	<li><a href="http://ribadeo.gal" style="color:#FFFFFF;">Páxina web</a></li>
+	<li><a href="mailto:cultura@ribadeo.org" style="color:#FFFFFF;">Correo electrónico</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>330 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>27700</value>
+			</Data>
+			<Data name="Telefono">
+				<value>982 131 565</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Ribadeo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.038468,43.53474</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_7fa33ea368274c2387f7fb08111ae4f6">
+		<name>Teatro Pastor Díaz</name>
+		<ExtendedData>
+			<Data name="Mail">
+				<value>rbg.cultura@viveiro.es</value>
+			</Data>
+			<Data name="Web">
+				<value>https://www.viveiro.es</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Constanza de Castro, 19</value>
+			</Data>
+			<Data name="Aforamento">
+				<value>393</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Teatro Pastor Díaz</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Constanza de Castro, 19<br/>
+27850 
+Viveiro<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 982 560 162</li>
+	<li><a href="https://www.viveiro.es" style="color:#FFFFFF;">Páxina web</a></li>
+	<li><a href="mailto:rbg.cultura@viveiro.es" style="color:#FFFFFF;">Correo electrónico</a></li>
+</ul></p>
+
+<p><strong>Aforamento</strong>
+<ul>
+	<li>393 localidades</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="CodigoPostal">
+				<value>27850</value>
+			</Data>
+			<Data name="Telefono">
+				<value>982 560 162</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Viveiro</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.594848,43.662307</coordinates>
+		</Point>
+	</Placemark>
+
+</Folder>
+</Document>
+</kml>
